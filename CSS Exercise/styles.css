@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .picture-group{
+    width:25%;
+    height:330px;
+    border:1px solid black;
+    float:left;
+    text-align:center;
+    padding:10px;
+  }
+  
