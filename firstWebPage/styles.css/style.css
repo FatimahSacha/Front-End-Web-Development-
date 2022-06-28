@@ -1,0 +1,22 @@
+.first-text-container, .second-text-container{
+    border:1px solid black;
+    margin-bottom:5px;
+    padding:5px;
+    border-radius: 4px;
+    overflow: scroll;
+    height:250px;
+    width:800px;
+    position:relative;
+    top:10px;
+    left:50px;
+    
+}
+
+.blog-post{
+    float:left;
+    margin-right:30px;
+}
+
+.blog-post-main-title{
+text-align: center;
+}
